@@ -25,7 +25,7 @@ A Dice App built with Flutter.
 
  ### [Shahab Alam](#) <br/><br/>
 
- <div class="social-icons-image">S
+ <div class="social-icons-image">
                 <a href="https://www.facebook.com/iamShahabAlam/">
                     <img src="https://www.facebook.com/images/fb_icon_325x325.png" style= "height:25px;"  alt="Facebook Icon" >
                 </a>
